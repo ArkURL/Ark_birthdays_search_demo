@@ -1,4 +1,4 @@
-#Ark_birthdays_search_demo
+# Ark_birthdays_search_demo
   一个基于python中urllib库爬取网页信息的简易项目。爬取的网页是明日方舟Wiki，即prts中干员们的生日信息。目前内核没有使用scrapy框架，只是一个非常简单的练习。后续使用了框架开发会尝试加上GUI。  
   
   使用前需要安装python环境，推荐安装python3.7以上版本。
